@@ -27,7 +27,7 @@ h3 {
 }
 p2 {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 30px;
 }
 </style>
 </head>
