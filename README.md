@@ -29,5 +29,7 @@ p1 {
 <p>There are many styles of dance. There is lyrical, jazz, hip hop, ballet and tap. Ballet and hip hop differ in many ways. One is fast and the other is slow moving.</p>
 <h2>Jazz</h2>
 <p1>Jazz emerged in Brazil in the early twentieth century. It builds on Afriacn American vernacular style of dancing, which emerged with jazz music.</p1>
+<h2>Ballet</h2>
+<p2>Ballet originated during the Italian Renaissance in the fifteenth century. It later developed into what some would call a concert dance form within France and Russia.</p2>
 </body>
 </html>
