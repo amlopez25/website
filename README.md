@@ -3,7 +3,8 @@
 <head>
 <style>
     body {
-  background-color: lightblue;
+  background-image: url("https://purbalite.net/wp-content/uploads/2018/10/dance.png")
+ 
 }
 h1 {
   color: white;
