@@ -6,7 +6,7 @@
   background-image: url("https://purbalite.net/wp-content/uploads/2018/10/dance.png");
 }
 h1 {
-  color: white;
+  color: black;
   text-align: center;
 }
 p {
@@ -14,7 +14,7 @@ p {
   font-size: 20px;
 }
 h2 {
-  color: white;
+  color: black;
   text-align: center;
 }
 p1 {
